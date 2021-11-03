@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ToDoListSQLite</string>
+    <string name="item_title">Titulo</string>
+    <string name="name">Nome</string>
+    <string name="waiting">Aguardando</string>
+    <string name="save">Salvar</string>
+    <string name="delete">Excluir</string>
+    <string name="update_task">Tarefa Atualizada!</string>
+    <string name="done">Feito</string>
+    <string name="status">Status</string>
+    <string name="delete_task">Tarefa deletada!</string>
+    <string name="validate_string">Preencha o nome da tarefa!</string>
+</resources>
